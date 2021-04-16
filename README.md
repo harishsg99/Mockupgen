@@ -9,7 +9,7 @@
 - NSDocument API(Apple Mac OS SDK)
 
 
-## 💻 Meet the makers
+## 💻 Meet the maker
 
 Created with 💖 by Harish
 
