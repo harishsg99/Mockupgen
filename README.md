@@ -1,7 +1,7 @@
 
 ## 📌 Introduction 
 
-- **MockupGen** 
+- **MockupGen** - A Mac OS app coded using swift to generate mockup for IOS apps for app store listing
 
 ## 🔧 Tech Stack used
 
